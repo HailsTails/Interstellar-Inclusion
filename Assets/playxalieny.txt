@@ -1,0 +1,29 @@
+[title=playxalieny0-begin]
+*AlienY*: Hey, haven't seen someone like you around here before.
+*PlayerX*:Oh...That's suprising. I'm *PlayerX*.
+*AlienY*: *PlayerX* ?? Sounds weird. Where are you from?
+*PlayerX*: I'm from here, actually.  
+*AlienY*:But where are you [speed=5]<b>actually</b>[/speed] from though?
+*PlayerX*:... <size=7>ugh</size>
+*AlienY*:[question=0]What's your <i>deal</i> anyway?
+[choice]I could actually use your help.
+[choice]Excuse me?! 
+[title=playxalieny0-end]
+
+[title=playxalieny1-begin]
+*PlayerX*: So... How do you feel about that? Will you join me?
+*AlienY*: Well, I don't know. What's in it for me?
+*PlayerX*: You'll get the satisfaction of knowing you did the right thing!
+*AlienY*: How do you know it's the right thing, though? What if that's just [speed=2]how it is?[/speed] Surely they put themselves in that position...
+*PlayerX*: [question=1]For some people, it's not a choice.\n
+[choice]But you can help change that for someone else!
+[choice]But maybe you don't understand that.
+[title=playxalieny1-end]
+
+[title=playxalieny2-begin]
+*AlienY*: Did you just roll your eyes at me?!
+*PlayerX*: No, sorry, I had something in my third eyelid. Anyways. I have a mission you might be interested in. We could help a lot of people.
+*AlienY*: ...<i>suspicious</i> [question=2]What's in it for me?
+[choice]Honour and glory?
+[choice]Why do YOU have to benefit from this?
+[title=playxalieny2-end]

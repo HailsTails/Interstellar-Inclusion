@@ -1,0 +1,29 @@
+[title=playxalieny1-begin]
+AlienY: [dub=0]Hey, haven't seen someone like you around here before
+*PlayerX*:Oh...hi! I'm *PlayerX*.
+AlienY: Sounds weird. Where are you from?
+*PlayerX*: I'm from here!  
+AlienY:But where are you <b>actually</b> from though?
+*PlayerX*:...
+AlienY:Whatever...\n [question=0]What's <color=red>your</color> deal anyway?
+[choice]I need your help! (fuck yeah)
+[choice]Ugh... (fuck you)
+[title=playxalieny1-end]
+
+[title=playxalieny2-begin]
+*PlayerX*: So... How do you feel about that?
+AlienY: Well, I don't know. What's in it for me?
+*PlayerX*: You'll get the satisfaction of knowing you did the right thing!
+AlienY: How do you know it's the right thing, though? What if that's just [speed=3]how it is?[/speed] Surely they put themselves in that position...
+*PlayerX*: [question=1]For some people, it's not a choice.\n
+[choice]But you can help change that for someone else!
+[choice]But maybe you don't understand that.
+[title=playxalieny2-end]
+
+[title=playxalieny3-begin]
+AlienY: Did you just roll your eyes at me?!
+*PlayerX*: No, sorry, I had something in my third eyelid. Anyways. I'm here because of reasons!
+AlienY: ...*suspicious* [question=2]What's in it for me?
+[choice]Honour and glory
+[choice]Some other shit Jess will edit later
+[title=playxalieny3-end]

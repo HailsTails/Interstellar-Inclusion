@@ -1,0 +1,24 @@
+[title=playyalienx0-begin]
+*AlienX*: ...Yes?
+*PlayerY*: I've got a mission on offer. Need bodies, all types.
+*AlienX*: "Bodies"? Hardly an enticing offer.
+*PlayerY*: I could care less how it sounds. The transmission is getting weaker by the moment. 
+[question=0]
+[choice]Look, this may not interest you. But there's a planet that needs helping.
+[choice]Where's your sense of duty?
+[title=playyalienx0-end]
+
+[title=playyalienx1-begin]
+*AlienX*: It does actually interest me. But you could be more considerate of your choice of words.
+*PlayerY*: I'm sorry if you were offended.
+*AlienX*: [question=1]You know that's not <i>actually</i> an apology right? I hope the people you're helping are more mindful than you.
+[choice]I apologise, it's a stressful situation. I hope you understand.
+[choice]I don't actually care. There are more important things I have to deal with.
+[title=playyalienx1-end]
+
+
+[title=playyalienx2-begin]
+*AlienX*: [question=2]Duty huh. Look, if people need help - that's what I do. But you could lose the attitude. 
+[choice]It's a stressful situation. Lives are at stake.
+[choice]Attitude. Are you joking? I don't need this.
+[title=playyalienx2-end]

@@ -1,0 +1,5 @@
+[title=playyalieny0-begin]
+*AlienY*: Can I help you with something?
+*PlayerY*: Yes actually. Looking to build a team.
+*AlienY*: I think I can make some time. Will look for your signal.
+[title=playyalieny0-end]

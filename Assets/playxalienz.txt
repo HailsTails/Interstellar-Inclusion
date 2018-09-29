@@ -1,0 +1,35 @@
+[title=playxalienz0-begin]
+*AlienZ*: [dub=8][speed=5]WOWWW[/speed] you're so <color=blue>BLUE</color>
+*PlayerX*: You don't say...
+*AlienZ*: [question=0]I've never met anyone so <color=blue>blue</color> before!! Can I touch your primary ectolayer? 
+[choice]Uhhhh, I guess? 
+[choice]I'm REALLY not comfortable with that
+[title=playxalienz0-end]
+
+[title=playxalienz1-begin]
+*AlienZ*: That was really interesting, thank you! Such a strange texture. What are you doing around these parts anyway?
+*PlayerX*: I'm actually looking for people to join my team - there's a planet that needs our help. 
+*AlienZ*: Oh how awful! Sounds like an interesting adventure, I'll join you!
+*PlayerX*: I'll send you a signal soon. But in the future, it's a bit rude to comment on one's primary ectolayer. 
+[title=playxalienz1-end]
+
+[title=playxalienz2-begin]
+*AlienZ*: Oh but it's just [speed=5]SO[/speed] blue! 
+*PlayerX*: Yes, it is. <i>sigh</i>
+*AlienZ*: [question=1]Oh are you tired?
+[choice]Not exactly. There's a lot on my mind.
+[choice]Yes, of this conversation.
+[title=playxalienz2-end]
+
+[title=playxalienz3-begin]
+*AlienZ*: Can I help?
+*PlayerX*: Actually, I think you might be able to...
+[title=playxalienz3-end]
+
+[title=playxalienz4-begin]
+*AlienZ*: Well there's no need to be so rude!
+*PlayerX*: Look - there's a serious mission I need to address. If I'm being honest, I really feel like this conversation is draining, and I could use some help.
+*AlienZ*: I'm really sorry to hear that. I didn't mean to upset you... [question=2]Can I help you?
+[choice]Yes, there's creatures that need us!
+[choice]Yes, you could be more conscious of your behaviour 
+[title=playxalienz4-end]

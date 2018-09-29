@@ -1,0 +1,3 @@
+[title=intro-begin]
+After months (or is it years?) of searching, you find yourself at an interstellar outpost. It’s been a while since you were here; it feels alien to you now. Time is running out - the transmission is getting weaker. You must build your team, to save the world you left behind. Convince others to join your mission! But being alive (and convincing people to do the right thing) is exhausting, so watch your stamina. First up. <i>Who are you?</i>
+[title=intro-end]

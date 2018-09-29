@@ -1,0 +1,7 @@
+[title=fail-begin]
+You FAILED!
+
+Maybe you ran out of time.
+Maybe you ran out of stamina.
+You may find it easier to play as a different character. Mx Grey and The Blob get treated differently by various species; each species has their own bias and privilege. 
+[title=fail-end]

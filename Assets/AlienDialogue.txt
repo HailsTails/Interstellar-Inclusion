@@ -1,0 +1,238 @@
+[title=playxalienx0-begin]
+*AlienX*: [dub=1]Oh hey! You look familiar. Are you related to Gorbleblerk?
+*PlayerX*:Oh...yeah! I'm *PlayerX*.
+*AlienX*: Rad! What's going on, *PlayerX*?
+*PlayerX*:I'm actually looking to build a crew. There's a mission - we could help a lot of people! 
+*AlienX*:Whatever you need, I'm in. Watch out for *PlayerY* though. They won't really get it.
+*PlayerX*: What do you mean? I'm actually hoping to make an inclusive crew.
+*AlienX*:Well they're pretty close-minded. I wouldn't bother. 
+*PlayerX*:Hmmmmmm....[question=0]
+[choice]That seems a bit judgemental. You never know!
+[choice]I think I'll try anyway...
+*AlienX*: That's fair. Best of luck, I'll look out for your signal when you're ready.
+[title=playxalienx0-end]
+
+
+[title=playxalieny0-begin]
+*AlienY*: Haven't seen someone like you around here before. You're shorter than I thought you'd be.
+*PlayerX*:Oh...That's suprising. I'm *PlayerX*.
+*AlienY*: *PlayerX* ?? Sounds weird. Where are you from?
+*PlayerX*: I'm from here, actually.  
+*AlienY*:But where are you [speed=5]<b>actually</b>[/speed] from though?
+*PlayerX*:... <size=7>ugh</size>
+*AlienY*:[question=0]What's your <i>deal</i> anyway?
+[choice]I could actually use your help.
+[choice]Excuse me?! 
+[title=playxalieny0-end]
+
+[title=playxalieny1-begin]
+*PlayerX*: So... How do you feel about that? Will you join me?
+*AlienY*: Well, I don't know. What's in it for me?
+*PlayerX*: You'll get the satisfaction of knowing you did the right thing!
+*AlienY*: How do you know it's the right thing, though? What if that's just [speed=2]how it is?[/speed] Surely they put themselves in that position...
+*PlayerX*: [question=1]For some people, it's not a choice.\n
+[choice]But you can help change that for someone else!
+[choice]But maybe you don't understand that.
+[title=playxalieny1-end]
+
+[title=playxalieny2-begin]
+*AlienY*: Did you just roll your eyes at me?!
+*PlayerX*: No, sorry, I had something in my third eyelid. Anyways. I have a mission you might be interested in. We could help a lot of people.
+*AlienY*: ...<i>suspicious</i> [question=2]What's in it for me?
+[choice]Honour and glory?
+[choice]Why do YOU have to benefit from this?
+[title=playxalieny2-end]
+
+
+[title=playxalienz0-begin]
+*AlienZ*: [dub=7][speed=5]WOWWW[/speed] you're so <color=blue>BLUE</color>
+*PlayerX*: You don't say...
+*AlienZ*: [question=0]I've never met anyone so <color=blue>blue</color> before!! Can I touch your primary ectolayer? 
+[choice]Uhhhh, I guess? 
+[choice]I'm REALLY not comfortable with that
+[title=playxalienz0-end]
+
+[title=playxalienz1-begin]
+*AlienZ*: That was really interesting, thank you! Such a strange texture. What are you doing around these parts anyway?
+*PlayerX*: I'm actually looking for people to join my team - there's a planet that needs our help. 
+*AlienZ*: Oh how awful! Sounds like an interesting adventure, I'll join you!
+*PlayerX*: I'll send you a signal soon. But in the future, it's a bit rude to comment on one's primary ectolayer. 
+[title=playxalienz1-end]
+
+[title=playxalienz2-begin]
+*AlienZ*: Oh but it's just [speed=5]SO[/speed] blue! 
+*PlayerX*: Yes, it is. <i>sigh</i>
+*AlienZ*: [question=1]Oh are you tired?
+[choice]Not exactly. There's a lot on my mind.
+[choice]Yes, of this conversation.
+[title=playxalienz2-end]
+
+[title=playxalienz3-begin]
+*AlienZ*: Can I help?
+*PlayerX*: Actually, I think you might be able to...
+[title=playxalienz3-end]
+
+[title=playxalienz4-begin]
+*AlienZ*: Well there's no need to be so rude!
+*PlayerX*: Look - there's a serious mission I need to address. If I'm being honest, I really feel like this conversation is draining, and I could use some help.
+*AlienZ*: I'm really sorry to hear that. I didn't mean to upset you... [question=2]Can I help you?
+[choice]Yes, there's creatures that need us!
+[choice]Yes, you could be more conscious of your behaviour 
+[title=playxalienz4-end]
+
+
+[title=playyalienx0-begin]
+*AlienX*: ...Yes?
+*PlayerY*: I've got a mission on offer. Need bodies, all types.
+*AlienX*: "Bodies"? Hardly an enticing offer.
+*PlayerY*: I could care less how it sounds. The transmission is getting weaker by the moment. 
+[question=0]
+[choice]Look, this may not interest you. But there's a planet that needs helping.
+[choice]Where's your sense of duty?
+[title=playyalienx0-end]
+
+[title=playyalienx1-begin]
+*AlienX*: It does actually interest me. But you could be more considerate of your choice of words.
+*PlayerY*: I'm sorry if you were offended.
+*AlienX*: [question=1]You know that's not <i>actually</i> an apology right? I hope the people you're helping are more mindful than you.
+[choice]I apologise, it's a stressful situation. I hope you understand.
+[choice]I don't actually care. There are more important things I have to deal with.
+[title=playyalienx1-end]
+
+
+[title=playyalienx2-begin]
+*AlienX*: [question=2]Duty huh. Look, if people need help - that's what I do. But you could lose the attitude. 
+[choice]It's a stressful situation. Lives are at stake.
+[choice]Attitude. Are you joking? I don't need this.
+[title=playyalienx2-end]
+
+
+[title=playyalieny0-begin]
+*AlienY*: Can I help you with something?
+*PlayerY*: Yes actually. Looking to build a team.
+*AlienY*: I think I can make some time. Will look for your signal.
+[title=playyalieny0-end]
+
+[title=playyalienz0-begin]
+*AlienZ*: You look so serious! Why the grey face?
+*PlayerY*: Grey...?
+*AlienZ*: [question=0]You know, greys? No? 
+[choice]Other people shouldn't use that word.
+[choice]What
+[title=playyalienz0-end]
+
+[title=playyalienz1-begin]
+*AlienZ*: But my friend is a grey, and they don't mind when I say it.
+*PlayerY*: You need to do your research. That word has historical connotations, and it's not for you to use. Maybe your friend just doesn't want to upset you, but your words affect others.
+*AlienZ*: [question=1]I'm sorry. I'll remember for next time.
+[choice]You can make it up to me. I need to build a team.
+[choice]Educate yourself and be better. You can help me for a start.
+[title=playyalienz1-end]
+
+
+[title=playyalienz2-begin]
+*PlayerY*: This is just how I look. Anyways, I'm looking for a crew. Got a transmission needs attending.
+*AlienZ*: [question=2]I dunno, is it gonna be any fun?
+[choice]Could be.
+[choice]It's not about fun. It's about what's right.
+[title=playyalienz2-end]
+
+
+[title=playyalienz3-begin]
+*AlienZ*: [question=3]Well, when you put it that way...
+[choice]You can ride shotgun.
+[choice]Your choice. But you have to live with it.
+[title=playyalienz3-end]
+
+
+[title=playyalienu0-begin]
+*AlienU*: What are you doing all the way out here?
+*PlayerY*: Looking to build a team.
+*AlienU*: I'm free. Happy to help another grey. Will look for your signal.
+[title=playyalienu0-end]
+
+[title=playyalienv0-begin]
+*AlienV*: Nice to see another grey around here.
+*PlayerY*: I agree. Feels like a long time since I've been around others that get it. I'm building a team for an important mission - will you join me?
+*AlienV*: Of course. I'll wait for your signal - just let me know.
+[title=playyalienv0-end]
+
+[title=playxalienv0-begin]
+*AlienV*: Do you want something?
+*PlayerX*: I'm building a team. There's a planet in need...
+*AlienV*: Doesn't have anything to do with me.
+[title=playxalienv0-end]
+
+[title=playxalienu0-begin]
+*AlienU*: ...Yes?
+*PlayerX*: I've got a mission - there's creatures in need and we can help.
+*AlienU*: Not interested.
+[title=playxalienu0-end]
+
+
+[title=playxalienz3-begin]
+They're on your team!
+[title=playxalienz3-end]
+
+[title=playxalienz5-end]
+They're on your team!
+[title=playxalienz5-end]
+
+
+[title=playxalienz6-begin]
+They aren't joining your mission.
+[title=playxalienz6-end]
+
+
+[title=playxalieny3-begin]
+They're on your team!
+[title=playxalieny3-end]
+
+
+[title=playxalieny4-begin]
+Nope nope nope nope.
+[title=playxalieny4-end]
+
+[title=playxalieny5-begin]
+They're on your team!
+[title=playxalieny5-end]
+
+[title=playxalieny6-begin]
+They're on your team!
+[title=playxalieny6-end]
+
+[title=playxalienx1-begin]
+They're on your team!
+[title=playxalienx1-end]
+
+[title=playxalienx2-begin]
+They're on your team!
+[title=playxalienx2-end]
+
+[title=playyalieny2-begin]
+They're on your team!
+[title=playyalieny2-end]
+[title=playyalieny1-begin]
+They're on your team!
+[title=playyalieny1-end]
+[title=playyalienx3-begin]
+They're on your team!
+[title=playyalienx3-end]
+[title=playyalienx4-begin]
+No deal...
+[title=playyalienx4-end]
+[title=playyalienx5-begin]
+They're on your team!
+[title=playyalienx5-end]
+[title=playyalienx6-begin]
+They're on your team!
+[title=playyalienx6-end]
+[title=playyalienz4-begin]
+There on your team!
+[title=playyalienz4-end]
+[title=playyalienz5-begin]
+They're on your team!
+[title=playyalienz5-end]
+[title=playyalienz6-begin]
+No deal.
+[title=playyalienz6-end]

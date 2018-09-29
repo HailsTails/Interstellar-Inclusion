@@ -1,0 +1,6 @@
+[title=succeed-begin]
+You WON! You got enough aliens on your side, within your stamina limit. 
+
+If you were playing as Mx Grey, you may have found it easier to convince people.
+If you were playing The Blob, you may have experienced feelings of being "othered", even as an otherworldly being. Your identity was forefront, rather than your demeanor.
+[title=succeed-end]

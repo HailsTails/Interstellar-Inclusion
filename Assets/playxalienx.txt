@@ -1,0 +1,13 @@
+[title=playxalienx0-begin]
+*AlienX*: [dub=2]Oh hey! You look familiar. Are you related to Gorbleblerk?
+*PlayerX*:Oh...yeah! I'm *PlayerX*.
+*AlienX*: Rad! What's going on, *PlayerX*?
+*PlayerX*:I'm actually looking to build a crew. There's a mission - we could help a lot of people! 
+*AlienX*:Whatever you need, I'm in. Watch out for *PlayerY* though. They won't really get it.
+*PlayerX*: What do you mean? I'm actually hoping to make an inclusive crew.
+*AlienX*:Well they're pretty close-minded. I wouldn't bother. 
+*PlayerX*:Hmmmmmm....[question=0]
+[choice]That seems a bit judgemental. You never know!
+[choice]I think I'll try anyway...
+*AlienX*: That's fair. Best of luck, I'll look out for your signal when you're ready.
+[title=playxalienx0-end]

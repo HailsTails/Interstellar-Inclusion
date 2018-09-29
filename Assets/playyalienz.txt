@@ -1,0 +1,31 @@
+[title=playyalienz0-begin]
+*AlienZ*: You look so serious! Why the grey face?
+*PlayerY*: Grey...?
+*AlienZ*: [question=0]You know, greys? No? 
+[choice]Other people shouldn't use that word.
+[choice]What
+[title=playyalienz0-end]
+
+[title=playyalienz1-begin]
+*AlienZ*: But my friend is a grey, and they don't mind when I say it.
+*PlayerY*: You need to do your research. That word has historical connotations, and it's not for you to use. Maybe your friend just doesn't want to upset you, but your words affect others.
+*AlienZ*: I'm sorry. I'll remember for next time. 
+*PlayerY*: [question=1]
+[choice]You can make it up to me. I need to build a team.
+[choice]Educate yourself and be better. You can help me for a start.
+[title=playyalienz1-end]
+
+
+[title=playyalienz2-begin]
+*PlayerY*: This is just how I look. Anyways, I'm looking for a crew. Got a transmission needs attending.
+*AlienZ*: [question=2]I dunno, is it gonna be any fun?
+[choice]Could be.
+[choice]It's not about fun. It's about what's right.
+[title=playyalienz2-end]
+
+
+[title=playyalienz3-begin]
+*AlienZ*: [question=3]Well, when you put it that way...
+[choice]You can ride shotgun.
+[choice]Your choice. But you have to live with it.
+[title=playyalienz3-end]
